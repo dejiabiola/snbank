@@ -1,3 +1,12 @@
 
-deji, 100, savings, deji@yahoo.com, 27738157185
-deji,ds,savings,asdas,93540265930
+deji, 100, savings, deji@yahoo.com, 27738157185,2345
+deji,ds,savings,asdas,93540265930,34563
+
+asdf,0,current,asd@sdf.com,59843487839,12345
+
+fishery,12000,savings,fish@gmail.com,05004432260,5431
+
+
+
+
+Food,50000,savings,food@gmail.com,07174187554,4321
